@@ -8,3 +8,7 @@ pip install -r requirements.txt
 
 ## Install mbtget for attack 4 
 https://github.com/sourceperl/mbtget
+
+## Running
+First, server implementation should run and then attacks should run. \
+Do not forget to change the IP addresses accordingly.
